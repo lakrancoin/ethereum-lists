@@ -1,0 +1,35 @@
+{
+"symbol": "DFN",
+"name": "Definova",
+"type": "BEP20",
+"address": "0x1e1DB619834036435bEbE71574589b21e4EDDd2d",
+"ens_address": "",
+"decimals": 8,
+"website": "https://definova.club",
+"logo": {
+"src": "https://i.ibb.co/WBxW0Jg/32-32.jpg",
+"width": "32px",
+"height": "32px",
+"ipfs_hash": ""
+},
+"support": {
+"email": "kristinaobuhovskaa632@gmail.com",
+"url": "https://definova.club"
+},
+"social": {
+"blog": "https://definova.club",
+"chat": "https://t.me/definova",
+"discord": "",
+"facebook": "",
+"forum": "",
+"github": "https://github.com/lakrancoin/definova",
+"gitter": "",
+"instagram": "",
+"linkedin": "",
+"reddit": "",
+"slack": "",
+"telegram": "https://t.me/definova",
+"twitter": "https://twitter.com/DefinovaClub",
+"youtube": ""
+}
+}
